@@ -1,6 +1,6 @@
 # Numerical Simulations of RBC/DSGE Models using "linearsolve" by Jenkins (2024)
 
-Dynamic Stochastic General Stochastic General Equilibrium (DSGE) Model Codes using Jenkins' linearsolve module (2024). 
+Python codes of Dynamic Stochastic General Equilibrium (DSGE) models using the ‘linearsolve’ module developed by Jenkins (2024). 
 
 # References
 

@@ -1,6 +1,6 @@
 # Numerical Simulations of RBC/DSGE Models With Dynare
 
-Python codes of Dynamic Stochastic General Equilibrium (DSGE) models using the ‘linearsolve’ module developed by Brian C.Jenkins.
+Python codes of Dynamic Stochastic General Equilibrium (DSGE) models using the ‘linearsolve’ module developed by Brian C. Jenkins.
 
 * Linearsolve link: https://github.com/letsgoexploring/linearsolve
 
